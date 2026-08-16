@@ -85,4 +85,4 @@ Updated" date.
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Route Email: privacy@route.com
+[delivery_stats/issues](https://github.com/i1qh2n/delivery_stats/issues)
