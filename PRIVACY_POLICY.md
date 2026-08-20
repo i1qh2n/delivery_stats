@@ -1,8 +1,8 @@
 # Privacy Policy for Delivery Stats
 
-**Last Updated: August 9, 2026**
+**Last Updated: August 20, 2026**
 
-Route ("we," "our," or "us") is committed to protecting your privacy. This
+i1qh2n ("we," "our," or "us") is committed to protecting your privacy. This
 Privacy Policy explains how we collect, use, and safeguard your information when
 you use the Delivery Stats mobile application ("App").
 
@@ -24,9 +24,6 @@ your delivery performance and logistics.
 
 To provide its core features, the App requires access to the following:
 
-* **Location Services**: The App uses your device's GPS to geotag attachments
-  (photos or files). This provides spatial context to your delivery data.
-  Location data is processed locally on your device.
 * **Storage Access**: The App requires permission to read from and write to your
   device's storage. This is used for:
     * Importing JSON backups to restore your database.
@@ -83,6 +80,6 @@ Updated" date.
 
 ### 9. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:
+If you have any questions about this Privacy Policy, please contact us at
 
-[delivery_stats/issues](https://github.com/i1qh2n/delivery_stats/issues)
+https://github.com/i1qh2n/delivery_stats/issues
